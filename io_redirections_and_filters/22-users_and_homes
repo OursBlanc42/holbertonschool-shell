@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ,,, /etc/passwd --invert-match | cut -d ":" -f 5,6
+grep ,,, /etc/passwd --invert-match | cut -d ":" -f 5,6 | sort
