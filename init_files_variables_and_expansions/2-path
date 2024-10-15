@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/action
+expr $(echo $PATH | grep -o ":" | wc -l) + 2
