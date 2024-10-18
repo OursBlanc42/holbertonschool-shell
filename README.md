@@ -1,1 +1,2 @@
-# Je suis un super README of the dead !
+# Hello World 2
+Premier projet réalisé à Holberton (deuxieme semaine)
